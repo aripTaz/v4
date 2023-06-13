@@ -1,4 +1,8 @@
 #!/bin/bash
+# VPN Premium Script
+# by Taz-VPN
+# Telegram: https://t.me/Tazpin 
+# Thanks for using this script, Enjoy Highspeed VPN Service
 dateFromServer=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################

@@ -5,6 +5,6 @@
 #BACKUP
 <pre><code>wget https://raw.githubusercontent.com/aripTaz/v4/main/update.sh && chmod +x update.sh && ./update.sh
 
-![This is an image]
+#MaenUP
 
 <pre><code> wget https://raw.githubusercontent.com/aripTaz/v4/main/up.sh && chmod +x up.sh && ./up.sh
